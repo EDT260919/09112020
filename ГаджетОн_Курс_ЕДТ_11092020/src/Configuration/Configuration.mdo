@@ -42,6 +42,7 @@
   <styles>Style.Корпоративный</styles>
   <commonPictures>CommonPicture.КартинкаПоставки</commonPictures>
   <commonPictures>CommonPicture.КартинкаЗаказы</commonPictures>
+  <sessionParameters>SessionParameter.ПользовательСеанса</sessionParameters>
   <roles>Role.Администрирование</roles>
   <roles>Role.ПросмотрДанных</roles>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
@@ -50,6 +51,7 @@
   <catalogs>Catalog.Договоры</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <catalogs>Catalog.Города</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
   <documents>Document.ЗаказыПоставщикам</documents>
   <documents>Document.ПриходныеНакладные</documents>
   <documents>Document.РасходыДенежныхСредств</documents>
